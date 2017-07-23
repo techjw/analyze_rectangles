@@ -1,0 +1,14 @@
+{
+  "rectangle1": {
+    "top": 1,
+    "left": 10,
+    "bottom": 5,
+    "right": 12
+  },
+  "rectangle2": {
+    "top": 6,
+    "left": 10,
+    "bottom": 8,
+    "right": 12
+  }
+}
